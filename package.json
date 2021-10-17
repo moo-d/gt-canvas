@@ -1,0 +1,23 @@
+{
+  "name": "gt-canvas",
+  "version": "1.0.0",
+  "description": "Nothing",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moo-d/gt-canvas.git"
+  },
+  "keywords": [
+    "canvas"
+  ],
+  "author": "moo-d",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moo-d/gt-canvas/issues"
+  },
+  "homepage": "https://github.com/moo-d/gt-canvas#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "moment": "^2.29.1"
+  }
+}
