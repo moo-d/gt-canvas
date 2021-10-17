@@ -6,7 +6,7 @@ module.exports = class Signup {
     this.avatar = "https://i.ibb.co/G5mJZxs/rin.jpg";
     this.assent = "https://i.ibb.co/0Fc6bB8/20210727-185801.png";
     this.name = "mutz";
-    this.email = "linz@notfoundsquad.com";
+    this.email = "nazwa.salsa67.bila@gmail.com";
   }
   setAvatar(value) {
     this.avatar = value;
